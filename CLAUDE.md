@@ -11,6 +11,9 @@ KA. Installs to `/usr/share/backgrounds/kiro-atelier/`. Package in `nemesis_repo
 - The current set is painted from a wallhaven.cc wallpaper with unknown artist (Erik chose to ship it, 2026-11-14).
   `README.md` and `usr/share/backgrounds/kiro-atelier/README.txt` say so and offer credit or removal: keep that text.
   For a new set, prefer KA's public-domain gallery photos (`~/KIROTUX/kiro-atelier/tools/gallery-photos/SOURCES.md`).
+- **No doubles across wallpaper packs, ever (Erik, 2026-11-14)**: the free packs and the paid Ko-fi pack never
+  share a painting or a source picture. The list of what is where lives in HQ (`Kirotux/WALLPAPER-PACKS.md`,
+  offline); check and update it before changing the set.
 - Ko-fi link for KA: `https://ko-fi.com/s/6ff5175237` (same as KA Check's `KOFI_URL`).
 - JPG only (keeps the package small); after changing the set, rebuild `docs/styles.jpg` (4-wide contact sheet,
   480×270 thumbnails, style and strength burned in).
