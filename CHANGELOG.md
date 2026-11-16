@@ -12,6 +12,8 @@
   Wallpapers packs 1 and 2. md5: no copies; the closest 32x18 thumbnails were looked at side by side: other pictures.
 - Erik swapped one: the Psychedelic painting from an American-flag photo became a sandy beach with a rock arch
   (Baby Groot, the next candidate, is a Marvel character and was skipped).
+- Erik then removed the beach too (too close to a photo): the Psychedelic slot is now a space scene in blue and
+  gold swirls.
 - README.md, README.txt and the preview `docs/styles.jpg` describe the new set; the source note covers 22 pictures
   from public wallpaper sites, artists unknown, credit or removal on request.
 
