@@ -1,9 +1,10 @@
 # kiro-atelier-wallpapers
 
-Twenty-two wallpapers that show what **Kiro Atelier** (KA) can do: one picture, painted in 22 of KA's styles,
-each in 4K (one style, Light Files, in 1920 × 1080). They ship on the Kiro ISO and show up in Variety's rotation.
+Twenty-two wallpapers that show what **Kiro Atelier** (KA) can do: 22 different pictures, each painted by KA in
+one of its styles (Dreamscape, Palette Knife, Art Deco, Shadow Box, Psychedelic, Layered Paper, Paper Quilling,
+Origami, Monsoon), all in 4K. They ship on the Kiro ISO and show up in Variety's rotation.
 
-![The same mountain-lake picture painted in 22 Kiro Atelier styles, each labelled with its style and strength](docs/styles.jpg)
+![The 22 Kiro Atelier wallpapers, each labelled with its style and strength](docs/styles.jpg)
 
 **Kiro Atelier** turns your photos and wallpapers into paintings on your own computer, with no cloud and no account:
 oil impasto, palette knife, watercolour, pastel, Japanese woodblock, linocut, charcoal, paper craft and more.
@@ -16,7 +17,8 @@ then get it here: [Kiro Atelier on Ko-fi](https://ko-fi.com/s/6ff5175237).
 - `/usr/share/backgrounds/kiro-atelier/README.txt` — what they are and where to get Kiro Atelier
 
 File names keep the style and the strength KA painted with, e.g.
-`kiro-atelier-landscape-with-mountains-and-a-lake-linocut-0.70-3840x2160.jpg`: style **Linocut**, strength **0.70**.
+`kiro-atelier-snow-leopard-with-red-eyes-in-the-snow-art-deco-0.70-3840x2160.jpg`: style **Art Deco**, strength
+**0.70**.
 The strength says how far the painting moves away from the original picture (0.45 stays close, 0.75 repaints boldly).
 
 ## Install
@@ -30,10 +32,11 @@ sudo pacman -S kiro-atelier-wallpapers
 Pick one in your desktop's wallpaper settings, or let Variety rotate them: `kiro-variety-config` lists
 `/usr/share/backgrounds/kiro-atelier` as a source.
 
-## Source of the picture
+## Source of the pictures
 
-The original picture is a wallpaper found on wallhaven.cc; its artist is unknown. If it is your work, please
-[open an issue](https://github.com/kirodubes/kiro-atelier-wallpapers/issues) and we will credit you or remove it.
+The original pictures are wallpapers found on public wallpaper sites; their artists are unknown. If one is your
+work, please [open an issue](https://github.com/kirodubes/kiro-atelier-wallpapers/issues) and we will credit you or
+remove it.
 
 <!-- KIRO-FUNDING-FOOTER:START — managed by Kiro-HQ/cascade-readme-footer.sh -->
 ## Help fund Kiro

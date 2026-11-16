@@ -8,9 +8,15 @@ KA. Installs to `/usr/share/backgrounds/kiro-atelier/`. Package in `nemesis_repo
 ## Rules — do not break
 - Public repo: no hostnames, LAN addresses or private photos in any file.
 - Keep KA's file names, including style and strength (Erik, 2026-11-14).
-- The current set is painted from a wallhaven.cc wallpaper with unknown artist (Erik chose to ship it, 2026-11-14).
-  `README.md` and `usr/share/backgrounds/kiro-atelier/README.txt` say so and offer credit or removal: keep that text.
-  For a new set, prefer KA's public-domain gallery photos (`~/KIROTUX/kiro-atelier/tools/gallery-photos/SOURCES.md`).
+- The current set (2026-11-16, Erik: "grab them from" the pack pool `~/Templates/atelier/`) is 22 different
+  pictures in KA's 9 pack styles, sources from public wallpaper sites with unknown artists. `README.md` and
+  `usr/share/backgrounds/kiro-atelier/README.txt` say so and offer credit or removal: keep that text. The first set
+  (2026-11-14) was one wallhaven picture in 22 styles. Only paid-pack styles exist in the pool, so the premium apps'
+  Themes fallback (`ka_wallpaper(style)`) finds no Charcoal Sketch, Linocut … here; harmless while both premium apps
+  depend on kirotux-wallpapers, whose paintings come first.
+- Picking a set: the pool's per-folder `.kiro-atelier.json` gives each painting's source; skip any source or subject
+  used in kirotux-wallpapers or a Ko-fi pack, no brands/logos/text/screenshots/near-photos/real faces, 3840x2160 only;
+  check by eye on a contact sheet, then the md5 + 32x18 thumbnail check from HQ `WALLPAPER-PACKS.md`.
 - **No doubles across wallpaper packs, ever (Erik, 2026-11-14)**: the free packs and the paid Ko-fi pack never
   share a painting or a source picture. The list of what is where lives in HQ (`Kirotux/WALLPAPER-PACKS.md`,
   offline); check and update it before changing the set.
