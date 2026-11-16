@@ -10,6 +10,8 @@
   abstract.
 - **No doubles with any pack** (Erik): no painting, source picture or subject from kirotux-wallpapers or the Ko-fi KA
   Wallpapers packs 1 and 2. md5: no copies; the closest 32x18 thumbnails were looked at side by side: other pictures.
+- Erik swapped one: the Psychedelic painting from an American-flag photo became a sandy beach with a rock arch
+  (Baby Groot, the next candidate, is a Marvel character and was skipped).
 - README.md, README.txt and the preview `docs/styles.jpg` describe the new set; the source note covers 22 pictures
   from public wallpaper sites, artists unknown, credit or removal on request.
 
